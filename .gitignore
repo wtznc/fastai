@@ -2,3 +2,4 @@ misc/
 .ipynb_checkpoints
 images/
 tools/
+.DS_Store
